@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "Se você usar estes scripts ou figuras, cite como abaixo. / If you use these scripts or figures, please cite as below."
+title: "china-pib-graficos: scripts e dados para gráficos sobre o PIB e a posição internacional da China (2000-2025)"
+type: software
+version: 1.0.0
+date-released: "2026-11-23"
+license: MIT
+authors:
+  - family-names: "Góes"
+    given-names: "Letícia"
+repository-code: "https://github.com/devletstahl/china-pib-graficos"
+keywords:
+  - China
+  - PIB
+  - PPC
+  - economia internacional
+  - reprodutibilidade
